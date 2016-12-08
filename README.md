@@ -9,3 +9,7 @@ Some features are:
 * Exports into Flatfile format (.txt) or Comma-separated values format (.csv)
 
 If you use the release version executable, there is something similar to a man page accessed by entering just "learnwsclient" in the command line.
+
+If you are a developer or learner interested in reviewing or modifying learnwsclient's code base, please note that you very well may find a bug here or there or even optimizations I've missed. Please go ahead and fork this project, update it in any way you like, and share the knowledge!
+
+I've refactored this code into a fully-featured application with a user interface and extra features. As that project progresses into newer releases, I'd like to provide some open-source aspects of it as well, found here on GitHub!
