@@ -16,7 +16,7 @@ I've refactored this code into a fully-featured application with a user interfac
 
 ## Documentation
 
-There are Doxygen comments and formatting throughout the entire code base and you can find the compiled docs [here](http://cdn.rawgit.com/allenvanderlinde/learnwsclient/master/docs/html/annotated.html).
+There are Doxygen comments and formatting throughout the entire code base and you can find the compiled docs [here](http://cdn.rawgit.com/allenvanderlinde/learnwsclient/master/docs/html/index.html).
 
 ## Requirements
 
