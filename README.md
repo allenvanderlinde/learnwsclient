@@ -14,6 +14,10 @@ If you are a developer or learner interested in reviewing or modifying learnwscl
 
 I've refactored this code into a fully-featured application with a user interface and extra features. As that project progresses into newer releases, I'd like to provide some open-source aspects of it as well, found here on GitHub!
 
+## Documentation
+
+There are Doxygen comments and formatting throughout the entire code base and you can find the compiled docs [here](http://cdn.rawgit.com/allenvanderlinde/learnwsclient/master/docs/html/annotated.html).
+
 ## Requirements
 
 learnwsclient was written with Visual Studio 2015 and the necessary project/solution files are found within this repo. However, you'll have to build the BbWebServices.dll locally and reference Microsoft.Web.Services2.dll from within your own VS solution (or download Microsoft WSE 3.0).
