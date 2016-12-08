@@ -2,7 +2,7 @@
  * Project: learnwsclient
  * 
  * @file    LearnUsers.cs
- * @author  Allen Vanderlinde, Copyright (C) 2016
+ * @author  Allen Vanderlinde, 2016 (refer to LICENSE.txt for license details)
  * @date    September 19, 2016
  * @brief   This class represents Learn users and is used to
  *          expose various user data in the system (e.g., name,

@@ -2,7 +2,7 @@
  * Project: learnwsclient
  * 
  * @file    AppEntry.cs
- * @author  Allen Vanderlinde, Copyright (C) 2016
+ * @author  Allen Vanderlinde, 2016 (refer to LICENSE.txt for license details)
  * @date    September 19, 2016
  * @brief   Class which houses the application's main execution.
  */

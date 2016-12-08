@@ -2,7 +2,7 @@
  * Project: learnwsclient
  * 
  * @file    WebServices.cs
- * @author  Allen Vanderlinde, Copyright (C) 2016
+ * @author  Allen Vanderlinde, 2016 (refer to LICENSE.txt for license details)
  * @date    September 19, 2016
  * @brief   This class handles establishing a connection,
  *          initializing the web services, logging in,

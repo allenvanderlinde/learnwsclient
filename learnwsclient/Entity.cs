@@ -2,7 +2,7 @@
  * Project: learnwsclient
  * 
  * @file    Entity.cs
- * @author  Allen Vanderlinde, Copyright (C) 2016
+ * @author  Allen Vanderlinde, 2016 (refer to LICENSE.txt for license details)
  * @date    September 25, 2016
  * @brief   This is the base class representing
  *          users, courses, or other Learn

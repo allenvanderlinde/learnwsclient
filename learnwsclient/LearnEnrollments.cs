@@ -2,7 +2,7 @@
  * Project: learnwsclient
  * 
  * @file    LearnEnrollments.cs
- * @author  Allen Vanderlinde, Copyright (C) 2016
+ * @author  Allen Vanderlinde, 2016 (refer to LICENSE.txt for license details)
  * @date    October 6, 2016
  * @brief   This class represents Learn enrollments and is used to
  *          expose various user membership data in the system.
